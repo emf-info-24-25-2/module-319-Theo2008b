@@ -6,7 +6,7 @@ public class ExerciceBoucles1
     {
         for(int i=0; i<=4;i++)
         System.out.println("Boucle for, itération "+(i+1));
-        int i=0;
+            int i = 0;
         while (i<=4) 
         {
             System.out.println("Boucle while, itération "+(i+1));
